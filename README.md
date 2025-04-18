@@ -6,12 +6,14 @@ A simple and clean web-based To-Do list application built using ASP.NET Core MVC
 Designed to help users organize tasks, manage daily goals, and boost productivity.
 
 🚀 Features
+
 Add new tasks.
 Edit existing tasks.
 Mark tasks as complete.
 Delete tasks.
 
 💻 Tech Stack
+
 ASP.NET Core MVC
 Entity Framework Core
 SQLite
