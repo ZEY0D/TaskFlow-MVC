@@ -285,3 +285,4 @@ C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\refint\ToDo.dll
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.pdb
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ref\ToDo.dll
+C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json

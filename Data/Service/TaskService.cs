@@ -13,10 +13,11 @@ public class TaskService : ITaskService
 
     }
 
-    public async Task <IEnumerable<ToDoTask>> GetAllAsync(){
-        var tasks = await _todocontext.Tasks.ToListAsync();
-        return tasks;
-    }   
+    // include user data when listing tasks
+public async Task<IEnumerable<ToDoTask>> GetAllAsync(){
+    return await _todocontext.Tasks.Include(t => t.User).ToListAsync();
+}
+ 
 
     public async Task<ToDoTask?> GetTaskByIdAsync(int id){
         var task = await _todocontext.Tasks.FirstOrDefaultAsync(t => t.Id == id);
