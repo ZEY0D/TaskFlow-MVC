@@ -269,6 +269,7 @@ C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.MvcApplicationPartsAssemblyInfo
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.RazorAssemblyInfo.cache
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.RazorAssemblyInfo.cs
+C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\staticwebassets\msbuild.ToDo.Microsoft.AspNetCore.StaticWebAssets.props
@@ -285,4 +286,3 @@ C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\refint\ToDo.dll
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.pdb
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.genruntimeconfig.cache
 C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ref\ToDo.dll
-C:\Users\dell\BackEnd\ToDo\obj\Debug\net8.0\ToDo.sourcelink.json
