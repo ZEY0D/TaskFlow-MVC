@@ -11,6 +11,7 @@ Add new tasks.
 Edit existing tasks.
 Mark tasks as complete.
 Delete tasks.
+applied CRUD operations, dependency injection and service-layer architecture.
 
 💻 Tech Stack
 
