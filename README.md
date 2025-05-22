@@ -11,6 +11,7 @@ Add new tasks.
 Edit existing tasks.
 Mark tasks as complete.
 Delete tasks.
+
 applied CRUD operations, dependency injection and service-layer architecture.
 
 💻 Tech Stack
@@ -26,7 +27,7 @@ C#
 ⚙️ Installation
 
 1-Clone the repository:
-git clone https://github.com/YourUsername/YourRepoName.git
+git clone https://github.com/ZEY0D/TaskFlow-MVC.git
 
 2-Navigate into the project directory:
 cd YourRepoName
